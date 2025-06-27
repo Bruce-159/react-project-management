@@ -26,7 +26,7 @@ Tailwind CSS
 所有 UI 樣式皆透過 Tailwind CSS 撰寫
 包含hover、focus、media queries、nested utility 等技巧  
 
-  ##預覽畫面
+  ##預覽畫面  
   ![image](https://github.com/user-attachments/assets/2f1ef538-8bce-43c6-bfcf-09195c872fcd)
   ![image](https://github.com/user-attachments/assets/41921c46-e51d-4f05-a006-c6bcaff6febb)
 
